@@ -2,7 +2,7 @@
 
 ## What is Customer Churn?
 
-Customer churn refers to the phenomenon where customers stop using a company's products or services. In industries such as telecom, churn directly affects revenue and growth. Predicting churn in advance enables businesses to take proactive measures—like offering discounts or improving service quality—to retain at-risk customers.
+Customer churn refers to the phenomenon where customers stop using a company's products or services. In industries such as telecom, churn directly affects revenue and growth. Predicting churn in advance enables businesses to take proactive measures like offering discounts or improving service quality so as to retain at-risk customers.
 
 This project uses supervised machine learning techniques to predict whether a customer is likely to churn, based on their account information, service usage, and demographics.
 
